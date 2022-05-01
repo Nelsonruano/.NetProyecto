@@ -1,0 +1,15 @@
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\bin\Debug\net6.0\.NETCurso.exe
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\bin\Debug\net6.0\.NETCurso.deps.json
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\bin\Debug\net6.0\.NETCurso.runtimeconfig.json
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\bin\Debug\net6.0\.NETCurso.dll
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\bin\Debug\net6.0\.NETCurso.pdb
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.csproj.AssemblyReference.cache
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.AssemblyInfoInputs.cache
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.AssemblyInfo.cs
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.csproj.CoreCompileInputs.cache
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.dll
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\refint\.NETCurso.dll
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.pdb
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\.NETCurso.genruntimeconfig.cache
+C:\Users\Karla\OneDrive\Documentos\.NETCurso\obj\Debug\net6.0\ref\.NETCurso.dll
